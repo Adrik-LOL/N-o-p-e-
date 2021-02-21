@@ -3,6 +3,8 @@ A Discord Bot
 
 # commands;
 
+# s.nope *// secret
+
 # s.hi *// test command
 
 # s.byebye *// shutdown the bot
