@@ -17,7 +17,7 @@ A Discord Bot
 
 # s.fnaf *// please deposit five coins
 
-# s.yt *// yt channel of the creator
+# s.yt *// yt channels
 
 # prefix | s.
 
