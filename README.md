@@ -17,6 +17,8 @@ A Discord Bot
 
 # s.fnaf *// please deposit five coins
 
+# s.yt *// yt channel of the creator
+
 # prefix | s.
 
 # bot invite | https://discord.com/api/oauth2/authorize?client_id=812771272152973393&permissions=0&scope=bot
