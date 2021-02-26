@@ -3,11 +3,11 @@ A Discord Bot
 
 # commands;
 
+# s.secret *// Among Us
+
 # s.nope *// secret
 
 # s.hi *// test command
-
-# s.byebye *// shutdown the bot
       
 # s.mcplay *// a random server minecraft
 
